@@ -85,3 +85,4 @@ We run the placement utility from OpenLANE with the following command:
   #Perform congestion-aware placement
   %run_placement
 ```
+<img width="928" alt="placement report" src="https://github.com/user-attachments/assets/c0aa76ca-0276-4b7c-9374-40e62abf84d0" />
