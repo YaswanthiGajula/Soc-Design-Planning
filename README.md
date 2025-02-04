@@ -25,6 +25,7 @@ The first 5 steps are the following:
 
 <img width="631" alt="3" src="https://github.com/user-attachments/assets/e492a0ce-efb2-4778-
 bb6f-4b46dad29688" />
+
 At this point the synthesis can be started:
 ```bash
   # Step 6: Run the synthesis
