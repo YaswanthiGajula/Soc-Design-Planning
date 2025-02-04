@@ -93,3 +93,6 @@ To review the placement we navigate to the results folder of this specific run (
 
 ```bash 
   $ magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.placement.def &
+
+<img width="923" alt="placement pic" src="https://github.com/user-attachments/assets/6b5a7c5f-2802-4e09-8b23-40833e57b278" />
+
