@@ -25,10 +25,7 @@ Repository for the workshop "Digital VLSI SoC Design and Planning"
 
   %run_synthesis
 ```
-<img width="640" alt="yosys" src="https://github.com/user-attachments/assets/e3743ecc-a10f-4fc2-bf33-b3a07d39fb4a" />
-
-
-<img width="629" alt="d filp flp" src="https://github.com/user-attachments/assets/0e4be3ce-c70c-4039-8274-379fb4bbf3fd" />
+<img width="912" alt="floor plan" src="https://github.com/user-attachments/assets/fbe00338-d2c2-467a-a2dd-e686922509bd" />
 
 
 
