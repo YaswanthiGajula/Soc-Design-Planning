@@ -80,7 +80,6 @@ Repository for the workshop "Digital VLSI SoC Design and Planning"
 
 <img width="639" alt="io pins placed" src="https://github.com/user-attachments/assets/f1af7d91-de04-4dfd-b3c9-f9112b754116" />
 
-<img width="636" alt="nmos what" src="https://github.com/user-attachments/assets/574b3075-36c0-4713-bf81-7ab747450f49" />
 
 
 ```bash
