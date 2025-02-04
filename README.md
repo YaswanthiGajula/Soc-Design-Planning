@@ -102,3 +102,4 @@ To review the placement we navigate to the results folder of this specific run (
 
 <img width="928" alt="placement report" src="https://github.com/user-attachments/assets/6f47dad0-5e5e-48e6-a210-e5c9185f319c" />
 
+<img width="722" alt="magic t floorplan" src="https://github.com/user-attachments/assets/6fb665b8-180a-46b7-bc33-3536b6ffcf32" />
