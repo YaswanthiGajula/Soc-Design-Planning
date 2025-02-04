@@ -34,5 +34,10 @@ At this point the synthesis can be started:
 
 
 
+After successful completion of the synthesis we navigate to the reports folder of this specific run (25-01_23-16) and inspect the Yosys stats report file:
+
+
+
+
 
 
