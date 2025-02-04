@@ -49,7 +49,10 @@ The objectives are the following:
 
 We run the floorplan utility from OpenLANE to define the floorplan of the picorv32a design:
 
-
+```bash
+  #Define the floorplan
+  %run_floorplan
+```
 
 
 
