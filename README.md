@@ -23,8 +23,9 @@ The first 5 steps are the following:
 <img width="641" alt="1" src="https://github.com/user-attachments/assets/114aff47-677e-40ee-823a-1b462ed9c85e" />
 ```
 
-<img width="632" alt="2" src="https://github.com/user-attachments/assets/1f0bcf87-d59b-4fdc-8841-804c5e298081" />
 
+
+<img width="631" alt="3" src="https://github.com/user-attachments/assets/e492a0ce-efb2-4778-bb6f-4b46dad29688" />
 
 
 
