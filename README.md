@@ -24,16 +24,20 @@ Repository for the workshop "Digital VLSI SoC Design and Planning"
 
 
   %run_synthesis
-```
-<img width="912" alt="floor plan" src="https://github.com/user-attachments/assets/fbe00338-d2c2-467a-a2dd-e686922509bd" />
 
 
 
-## Lab Day 2 : Good floorplan VS bad floorplan and introduction to library cells
+
+###Lab Day 2 : Good floorplan VS bad floorplan and introduction to library cells
+
+### opening the terminal
+
+<img width="641" alt="1" src="https://github.com/user-attachments/assets/26633c27-465c-4f77-9d16-56e53cff6c57" />
 
 
 
   %run_floorplan
+
 ```
 <img width="912" alt="floor plan" src="https://github.com/user-attachments/assets/2c99b411-af25-4a6a-b40f-c23a0729d0a6" />
 
