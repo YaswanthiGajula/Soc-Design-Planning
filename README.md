@@ -132,9 +132,10 @@ The necessary steps and commands are the following:
 
 <img width="644" alt="sky130_inv_spice" src="https://github.com/user-attachments/assets/2fa81b08-035a-4e0e-848b-86dbf235a642" />
 
+<img width="633" alt="spice file" src="https://github.com/user-attachments/assets/077eb990-8b80-4264-8e2c-174680e479d1" />
+
+
 <img width="646" alt="12" src="https://github.com/user-attachments/assets/9cb9fc9e-d176-4e6e-9d7d-da5a42e3b480" />
-
-
 
 <img width="641" alt="18" src="https://github.com/user-attachments/assets/3bfaafba-1d8d-4df4-b66e-d1b91fc25d7d" />
 
@@ -142,12 +143,38 @@ The necessary steps and commands are the following:
 
 <img width="651" alt="two lines" src="https://github.com/user-attachments/assets/b99212f5-b498-408f-aca0-6a830bd75302" />
 
+### Tech lab
+<img width="633" alt="spice file" src="https://github.com/user-attachments/assets/57517388-564e-4752-8041-e67ba68281fe" />
 
+<img width="643" alt="2" src="https://github.com/user-attachments/assets/c286c754-561f-46aa-986e-f2626810ee7f" />
 
+<img width="649" alt="3" src="https://github.com/user-attachments/assets/82269f30-c4a9-40b3-b921-7444ac3fc5d0" />
 
+<img width="646" alt="4" src="https://github.com/user-attachments/assets/e1511557-e119-415b-8eea-87f7ec4bf6e9" />
 
+<img width="642" alt="5" src="https://github.com/user-attachments/assets/a838a46b-8ae9-418f-9086-23e795f895c9" />
 
+<img width="637" alt="6" src="https://github.com/user-attachments/assets/bb7d3942-7dd7-49f4-ace5-6ec4c84ebf49" />
 
+<img width="634" alt="8" src="https://github.com/user-attachments/assets/57bce72f-4286-4a8f-94e8-6bcc01961627" />
+
+<img width="638" alt="9" src="https://github.com/user-attachments/assets/533c9cd7-bc46-4e0b-ae82-791fea3026ae" />
+
+<img width="637" alt="10" src="https://github.com/user-attachments/assets/146e1345-8e67-44b0-a26a-54dd2dc433c9" />
+
+<img width="644" alt="11" src="https://github.com/user-attachments/assets/283ca7f4-3d12-40b0-85e5-3efbaf77c382" />
+
+<img width="638" alt="12" src="https://github.com/user-attachments/assets/e9126e85-01c8-4d2c-a00f-fdfeb195b608" />
+
+<img width="638" alt="13" src="https://github.com/user-attachments/assets/87290ef5-901a-4cfd-8d5f-bc4b0a7d6892" />
+
+<img width="626" alt="14" src="https://github.com/user-attachments/assets/d7b10956-9230-4326-9278-ea65c08ed83c" />
+
+<img width="641" alt="15" src="https://github.com/user-attachments/assets/36ba6f51-5b1a-4393-b2ac-e324f152cca8" />
+
+<img width="637" alt="16" src="https://github.com/user-attachments/assets/ae83f8f8-2a5b-4123-8237-cdc984484bba" />
+
+### Day 4
 
 
 
