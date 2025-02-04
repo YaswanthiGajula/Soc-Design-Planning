@@ -30,10 +30,10 @@ Repository for the workshop "Digital VLSI SoC Design and Planning"
 
 <img width="629" alt="d filp flp" src="https://github.com/user-attachments/assets/0e4be3ce-c70c-4039-8274-379fb4bbf3fd" />
 
+
+
 ## Lab Day 2 : Good floorplan VS bad floorplan and introduction to library cells
 
-
-#### 1  Define the floorplan using the floorplan utility from OpenLANE
 
 
   %run_floorplan
