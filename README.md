@@ -22,10 +22,3 @@ The first 5 steps are the following:
   %prep -design picorv32a
 
 
-<img width="641" alt="1" src="https://github.com/user-attachments/assets/2e80560d-5c6b-4124-b9d1-7f23b4a62e3c" />
-```
-At this point the synthesis can be started:
-```bash
-  # Step 6: Run the synthesis
-  %run_synthesis
-```
