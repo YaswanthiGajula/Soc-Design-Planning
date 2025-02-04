@@ -86,3 +86,10 @@ We run the placement utility from OpenLANE with the following command:
   %run_placement
 ```
 <img width="928" alt="placement report" src="https://github.com/user-attachments/assets/c0aa76ca-0276-4b7c-9374-40e62abf84d0" />
+
+#### 5 Review the placement in Magic
+
+To review the placement we navigate to the results folder of this specific run (28-01_20-56) and execute the command to launch Magic, 
+
+```bash 
+  $ magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.placement.def &
