@@ -20,3 +20,4 @@ The first 5 steps are the following:
  # Step 5: Prepare the 'picorv32a' design for synthesis
   %prep -design picorv32a
 ```
+<img width="641" alt="1" src="https://github.com/user-attachments/assets/114aff47-677e-40ee-823a-1b462ed9c85e" />
