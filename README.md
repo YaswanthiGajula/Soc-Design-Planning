@@ -35,7 +35,19 @@ At this point the synthesis can be started:
 
 <img width="629" alt="d filp flp" src="https://github.com/user-attachments/assets/0e4be3ce-c70c-4039-8274-379fb4bbf3fd" />
 
+## Lab Day 2 : Good floorplan VS bad floorplan and introduction to library cells
 
+The objectives are the following:
+
+1) Define the floorplan using the floorplan utility from OpenLANE
+2) Review the floorplan output files and calculate the die area
+3) Review the floorplan in Magic
+4) Perform congestion-aware placement using RePlAcE 
+5) Review the placement in Magic
+
+#### 1  Define the floorplan using the floorplan utility from OpenLANE
+
+We run the floorplan utility from OpenLANE to define the floorplan of the picorv32a design:
 
 
 
