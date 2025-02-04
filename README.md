@@ -28,11 +28,30 @@ Repository for the workshop "Digital VLSI SoC Design and Planning"
 
 
 
+
 ###Lab Day 2 : Good floorplan VS bad floorplan and introduction to library cells
 
 ### opening the terminal
 
 <img width="641" alt="1" src="https://github.com/user-attachments/assets/26633c27-465c-4f77-9d16-56e53cff6c57" />
+
+<img width="631" alt="3" src="https://github.com/user-attachments/assets/dba71224-14b1-43f3-8d9e-e12a01dced94" />
+
+###picorv32a
+
+<img width="634" alt="5" src="https://github.com/user-attachments/assets/136971d0-9bed-4b33-b054-87f7b5b09218" />
+
+
+<img width="631" alt="6" src="https://github.com/user-attachments/assets/4d127aab-cde0-4d72-8052-6ff4b2af9187" />
+
+
+<img width="601" alt="7" src="https://github.com/user-attachments/assets/866137e0-bb39-48cd-b9fd-5bb71afe982a" />
+
+<img width="638" alt="9" src="https://github.com/user-attachments/assets/789cde9b-db5d-43da-83c5-6c9c286db19d" />
+
+<img width="776" alt="10" src="https://github.com/user-attachments/assets/60be40ae-4e35-41fa-9f5d-813e892f1980" />
+
+
 
 
 
