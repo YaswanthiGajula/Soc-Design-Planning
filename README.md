@@ -68,3 +68,5 @@ In the same location as in the previous point, we run the following command to e
 ```bash 
   $ magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &
 ```
+
+<img width="932" alt="magict floor cmd" src="https://github.com/user-attachments/assets/bdff98a2-238c-4093-a188-8df12a579eb2" />
