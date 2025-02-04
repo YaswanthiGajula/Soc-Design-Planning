@@ -29,7 +29,7 @@ Repository for the workshop "Digital VLSI SoC Design and Planning"
 
 
 
-###Lab Day 2 : Good floorplan VS bad floorplan and introduction to library cells
+### Lab Day 2 : Good floorplan VS bad floorplan and introduction to library cells
 
 ### opening the terminal
 
@@ -38,7 +38,7 @@ Repository for the workshop "Digital VLSI SoC Design and Planning"
 <img width="631" alt="3" src="https://github.com/user-attachments/assets/dba71224-14b1-43f3-8d9e-e12a01dced94" />
 
 
-###picorv32a
+### picorv32a
 
 
 <img width="634" alt="5" src="https://github.com/user-attachments/assets/136971d0-9bed-4b33-b054-87f7b5b09218" />
@@ -176,12 +176,43 @@ The necessary steps and commands are the following:
 
 ### Day 4
 
+<img width="637" alt="1" src="https://github.com/user-attachments/assets/3bad19bd-701d-455a-8de8-6b16d2665d3e" />
 
+<img width="637" alt="2" src="https://github.com/user-attachments/assets/0ba0c814-6bc4-43e6-ae00-1f8f9e796713" />
 
+ <img width="633" alt="3" src="https://github.com/user-attachments/assets/dca6b0cf-6a57-4797-8c37-c0df6b591803" />
 
+<img width="644" alt="4" src="https://github.com/user-attachments/assets/4fa3f08e-c8a4-476d-81e5-53863214abc7" />
 
+<img width="631" alt="5" src="https://github.com/user-attachments/assets/db1757f3-a00d-419f-ba4a-0c8a2e7d0623" />
 
+<img width="638" alt="6" src="https://github.com/user-attachments/assets/06617341-8963-4dcb-8b00-9c834ca4fa44" />
 
+<img width="656" alt="7" src="https://github.com/user-attachments/assets/da7092bf-7248-401f-847b-f0bdf06e1b53" />
 
+<img width="639" alt="8" src="https://github.com/user-attachments/assets/51161460-7094-4dab-82e3-14f953747265" />
 
+<img width="650" alt="9" src="https://github.com/user-attachments/assets/ce7c0ff7-7439-45a7-ad5f-34b768756e60" />
+
+<img width="638" alt="10" src="https://github.com/user-attachments/assets/7b7244bb-fbba-4915-b021-95a013d455a3" />
+
+<img width="639" alt="11" src="https://github.com/user-attachments/assets/0fa12fa1-c8a3-48ea-ba3f-0513b7472b69" />
+
+<img width="638" alt="12" src="https://github.com/user-attachments/assets/f39ff29b-63e9-4716-9f96-aff2596a1ca3" />
+
+<img width="670" alt="14" src="https://github.com/user-attachments/assets/126aed74-9806-4884-9447-661f20f30ede" />
+
+<img width="665" alt="15" src="https://github.com/user-attachments/assets/f839fb0d-0be5-430d-be96-9f9809b07adc" />
+
+<img width="636" alt="16" src="https://github.com/user-attachments/assets/2da56739-fe6c-4dc1-936f-27dda60147d0" />
+
+<img width="641" alt="17" src="https://github.com/user-attachments/assets/c27b3f1f-23d6-4dcc-baf1-3588cd06ef57" />
+
+<img width="640" alt="18" src="https://github.com/user-attachments/assets/53dfff60-fafa-41c7-9a13-62d0f01baaa7" />
+
+<img width="644" alt="19" src="https://github.com/user-attachments/assets/280f8c8b-b02b-4748-ae0d-c9411dbea380" />
+
+<img width="648" alt="20" src="https://github.com/user-attachments/assets/d5dacf22-ab1c-46e3-a7e8-ad3def3fd0ac" />
+
+<img width="923" alt="placement pic" src="https://github.com/user-attachments/assets/c2e33b59-c4cb-4da7-bf10-4544147eb380" />
 
