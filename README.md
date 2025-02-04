@@ -13,3 +13,10 @@ The first 5 steps are the following:
 
   # Step 3: Start OpenLANE in interactive mode
   %./flow.tcl -interactive
+
+ # Step 4: Load the required packages
+  %package require openlane 0.9
+
+  # Step 5: Prepare the 'picorv32a' design for synthesis
+  %prep -design picorv32a
+```
