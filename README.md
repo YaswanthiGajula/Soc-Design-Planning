@@ -96,3 +96,4 @@ To review the placement we navigate to the results folder of this specific run (
 ```
 <img width="923" alt="placement pic" src="https://github.com/user-attachments/assets/6b5a7c5f-2802-4e09-8b23-40833e57b278" />
 
+<img width="926" alt="placement zoom pic" src="https://github.com/user-attachments/assets/2887f496-aac5-4142-89ee-a8bb6503cba2" />
