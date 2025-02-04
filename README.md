@@ -23,14 +23,8 @@ The first 5 steps are the following:
 <img width="641" alt="1" src="https://github.com/user-attachments/assets/114aff47-677e-40ee-823a-1b462ed9c85e" />
 ```
 
-<img width="631" alt="3" src="https://github.com/user-attachments/assets/e492a0ce-efb2-4778-
-bb6f-4b46dad29688" />
+<img width="631" alt="3" src="https://github.com/user-attachments/assets/caa2fde5-e1de-461a-84ba-ebf579719acf" />
 
-At this point the synthesis can be started:
-```bash
-  # Step 6: Run the synthesis
-  %run_synthesis
-```
 
 
 
