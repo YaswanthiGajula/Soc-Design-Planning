@@ -73,6 +73,15 @@ In the same location as in the previous point, we run the following command to e
 
 <img width="639" alt="io pins placed" src="https://github.com/user-attachments/assets/f1af7d91-de04-4dfd-b3c9-f9112b754116" />
 
+Once Magic opens, hitting S allows to select and inspect cells at different zoom levels:
+
 <img width="636" alt="nmos what" src="https://github.com/user-attachments/assets/574b3075-36c0-4713-bf81-7ab747450f49" />
 
+#### 4 Perform congestion-aware placement using RePlAcE
 
+We run the placement utility from OpenLANE with the following command:
+
+```bash
+  #Perform congestion-aware placement
+  %run_placement
+```
