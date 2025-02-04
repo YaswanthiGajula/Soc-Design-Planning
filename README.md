@@ -18,6 +18,7 @@ The first 5 steps are the following:
   %package require openlane 0.9
 
   # Step 5: Prepare the 'picorv32a' design for synthesis
+
   %prep -design picorv32a
 <img width="641" alt="1" src="https://github.com/user-attachments/assets/2e80560d-5c6b-4124-b9d1-7f23b4a62e3c" />
 ```
