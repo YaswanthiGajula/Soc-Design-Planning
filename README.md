@@ -22,3 +22,6 @@ The first 5 steps are the following:
   %prep -design picorv32a
 
 
+<img width="641" alt="1" src="https://github.com/user-attachments/assets/b8c2c325-1709-4892-be10-b58a7946d055" />
+
+
