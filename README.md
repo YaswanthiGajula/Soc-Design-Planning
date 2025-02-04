@@ -126,13 +126,11 @@ The necessary steps and commands are the following:
 
 <img width="631" alt="extracting spice" src="https://github.com/user-attachments/assets/6b7d5dec-3a46-4d18-81f5-ef21490cb032" />
 
-<img width="631" alt="extracting spice" src="https://github.com/user-attachments/assets/a89b0b1c-03bc-4eec-bb05-94487032619d" />
-
-
-
 <img width="632" alt="source ofthe pmos to vdd line" src="https://github.com/user-attachments/assets/43fd9079-2473-4c2c-a60e-ab13c88e9063" />
 
+<img width="639" alt="spice extraction in cmd prompt" src="https://github.com/user-attachments/assets/1a256993-aadc-47f2-b389-738270b35cf2" />
 
+<img width="644" alt="sky130_inv_spice" src="https://github.com/user-attachments/assets/2fa81b08-035a-4e0e-848b-86dbf235a642" />
 
 <img width="646" alt="12" src="https://github.com/user-attachments/assets/9cb9fc9e-d176-4e6e-9d7d-da5a42e3b480" />
 
