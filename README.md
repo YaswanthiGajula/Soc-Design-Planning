@@ -132,6 +132,7 @@ The necessary steps and commands are the following:
 
 <img width="637" alt="corrected inverter op" src="https://github.com/user-attachments/assets/c6a2aba3-934f-4eb4-be09-c1de05fa622a" />
 
+<img width="651" alt="two lines" src="https://github.com/user-attachments/assets/b99212f5-b498-408f-aca0-6a830bd75302" />
 
 
 
