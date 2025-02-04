@@ -122,6 +122,13 @@ The necessary steps and commands are the following:
 
 <img width="637" alt="vsd path" src="https://github.com/user-attachments/assets/edd50f2c-bb80-4035-beaf-951d85a501be" />
 
+<img width="637" alt="pmos what" src="https://github.com/user-attachments/assets/6b276b22-b048-48ad-bbae-4e80a37e50ae" />
+
+<img width="631" alt="extracting spice" src="https://github.com/user-attachments/assets/6b7d5dec-3a46-4d18-81f5-ef21490cb032" />
+
+<img width="631" alt="extracting spice" src="https://github.com/user-attachments/assets/a89b0b1c-03bc-4eec-bb05-94487032619d" />
+
+
 
 <img width="632" alt="source ofthe pmos to vdd line" src="https://github.com/user-attachments/assets/43fd9079-2473-4c2c-a60e-ab13c88e9063" />
 
