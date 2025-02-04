@@ -61,3 +61,10 @@ We run the floorplan utility from OpenLANE to define the floorplan of the picorv
 
 <img width="644" alt="di area" src="https://github.com/user-attachments/assets/659e1464-ab8b-4250-8dda-6b2a3f3e5210" />
 
+#### 3 Review the floorplan in Magic
+
+In the same location as in the previous point, we run the following command to execute Magic, providing the paths to the .tech, .lef and .def files:
+
+```bash 
+  $ magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def &
+```
