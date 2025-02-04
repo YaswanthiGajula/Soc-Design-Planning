@@ -25,7 +25,11 @@ The first 5 steps are the following:
 
 <img width="631" alt="3" src="https://github.com/user-attachments/assets/caa2fde5-e1de-461a-84ba-ebf579719acf" />
 
-
+At this point the synthesis can be started:
+```bash
+  # Step 6: Run the synthesis
+  %run_synthesis
+```
 
 
 
