@@ -21,11 +21,13 @@ The first 5 steps are the following:
   %prep -design picorv32a
 ```
 <img width="641" alt="1" src="https://github.com/user-attachments/assets/114aff47-677e-40ee-823a-1b462ed9c85e" />
-
-
 ```
 
+<img width="632" alt="2" src="https://github.com/user-attachments/assets/1f0bcf87-d59b-4fdc-8841-804c5e298081" />
 
 
-<img width="631" alt="3" src="https://github.com/user-attachments/assets/1a1ae0ce-0a01-45a8-b4a8-cdc84fe4ec5d" />
+
+
+
+
 
