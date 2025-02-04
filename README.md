@@ -27,4 +27,5 @@ The first 5 steps are the following:
 
 
 
-<img width="632" alt="4" src="https://github.com/user-attachments/assets/5ac8490b-92bd-4f80-8439-f8ad5672fbf1" />
+<img width="631" alt="3" src="https://github.com/user-attachments/assets/1a1ae0ce-0a01-45a8-b4a8-cdc84fe4ec5d" />
+
