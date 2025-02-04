@@ -37,7 +37,9 @@ Repository for the workshop "Digital VLSI SoC Design and Planning"
 
 <img width="631" alt="3" src="https://github.com/user-attachments/assets/dba71224-14b1-43f3-8d9e-e12a01dced94" />
 
+
 ###picorv32a
+
 
 <img width="634" alt="5" src="https://github.com/user-attachments/assets/136971d0-9bed-4b33-b054-87f7b5b09218" />
 
@@ -57,8 +59,9 @@ Repository for the workshop "Digital VLSI SoC Design and Planning"
 
   %run_floorplan
 
-```
-<img width="912" alt="floor plan" src="https://github.com/user-attachments/assets/2c99b411-af25-4a6a-b40f-c23a0729d0a6" />
+
+<img width="912" alt="floor plan" src="https://github.com/user-attachments/assets/c5c16278-52ce-4cb7-b1e4-a3aeb2b02646" />
+
 
 
 
