@@ -103,3 +103,22 @@ To review the placement we navigate to the results folder of this specific run (
 <img width="928" alt="placement report" src="https://github.com/user-attachments/assets/6f47dad0-5e5e-48e6-a210-e5c9185f319c" />
 
 <img width="722" alt="magic t floorplan" src="https://github.com/user-attachments/assets/6fb665b8-180a-46b7-bc33-3536b6ffcf32" />
+
+#### 2 Clone CMOS inverter standard cell design from repository
+
+The necessary steps and commands are the following:
+
+```bash
+  #Step 1: Change directory to the OpenLANE flow directory within the OpenLANE working directory
+  $ cd Desktop/work/tools/openlane_working_dir/openlane
+
+  #Step 2: Clone the repository with the inverter cell design
+  $ git clone https://github.com/nickson-jose/vsdstdcelldesign.git
+
+  #Step 3: Check that the cloned files are in the intended destination
+  $ ls -ltr
+```
+<img width="776" alt="10" src="https://github.com/user-attachments/assets/7e63258a-b5a5-4d0b-8752-3524d9bde226" />
+
+
+
