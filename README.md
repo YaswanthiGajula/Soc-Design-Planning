@@ -118,7 +118,7 @@ The necessary steps and commands are the following:
   #Step 3: Check that the cloned files are in the intended destination
   $ ls -ltr
 ```
-<img width="776" alt="10" src="https://github.com/user-attachments/assets/7e63258a-b5a5-4d0b-8752-3524d9bde226" />
+<img width="637" alt="git clone" src="https://github.com/user-attachments/assets/cb7e89c4-cf5b-497e-b5b8-78cc7e2e7d0d" />
 
 <img width="632" alt="source ofthe pmos to vdd line" src="https://github.com/user-attachments/assets/43fd9079-2473-4c2c-a60e-ab13c88e9063" />
 
