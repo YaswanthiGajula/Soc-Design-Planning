@@ -57,5 +57,6 @@ We run the floorplan utility from OpenLANE to define the floorplan of the picorv
 
 #### 2  Review the floorplan output files and calculate the die area
 
+<img width="634" alt="set env after" src="https://github.com/user-attachments/assets/f1bccc65-1dac-4f79-b0cd-32a53a12a6ff" />
 
 
