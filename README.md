@@ -120,5 +120,6 @@ The necessary steps and commands are the following:
 ```
 <img width="776" alt="10" src="https://github.com/user-attachments/assets/7e63258a-b5a5-4d0b-8752-3524d9bde226" />
 
+<img width="632" alt="source ofthe pmos to vdd line" src="https://github.com/user-attachments/assets/43fd9079-2473-4c2c-a60e-ab13c88e9063" />
 
 
