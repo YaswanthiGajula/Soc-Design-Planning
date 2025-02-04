@@ -123,3 +123,29 @@ The necessary steps and commands are the following:
 <img width="632" alt="source ofthe pmos to vdd line" src="https://github.com/user-attachments/assets/43fd9079-2473-4c2c-a60e-ab13c88e9063" />
 
 
+
+<img width="646" alt="12" src="https://github.com/user-attachments/assets/9cb9fc9e-d176-4e6e-9d7d-da5a42e3b480" />
+
+
+
+<img width="641" alt="18" src="https://github.com/user-attachments/assets/3bfaafba-1d8d-4df4-b66e-d1b91fc25d7d" />
+
+<img width="637" alt="corrected inverter op" src="https://github.com/user-attachments/assets/c6a2aba3-934f-4eb4-be09-c1de05fa622a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
