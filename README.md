@@ -59,4 +59,5 @@ We run the floorplan utility from OpenLANE to define the floorplan of the picorv
 
 <img width="634" alt="set env after" src="https://github.com/user-attachments/assets/f1bccc65-1dac-4f79-b0cd-32a53a12a6ff" />
 
+<img width="644" alt="di area" src="https://github.com/user-attachments/assets/659e1464-ab8b-4250-8dda-6b2a3f3e5210" />
 
