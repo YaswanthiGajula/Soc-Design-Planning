@@ -32,6 +32,8 @@ At this point the synthesis can be started:
 ```
 <img width="640" alt="yosys" src="https://github.com/user-attachments/assets/e3743ecc-a10f-4fc2-bf33-b3a07d39fb4a" />
 
+```
+<img width="629" alt="d filp flp" src="https://github.com/user-attachments/assets/1d318cc4-2f68-430e-a43f-a858ad670b80" />
 
 
 
